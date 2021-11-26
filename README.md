@@ -15,7 +15,8 @@
 ### Italic+Bold
 ***Computer Science Students***
 # Link Readme File
-[GOOGLE]("https://www.google.co.in/")
+
+[google](https://www.google.co.in/)
 
 # IMG into readmefile
 ![Rohit](rohit.jpg)
