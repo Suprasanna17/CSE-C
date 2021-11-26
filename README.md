@@ -16,3 +16,6 @@
 ***Computer Science Students***
 # Link Readme File
 [GOOGLE]("www.google.com")
+
+#IMG into readmefile
+[Rohit](rohit.jpg)
